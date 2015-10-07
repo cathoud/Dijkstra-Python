@@ -41,3 +41,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+out.txt
+*.txt
+__pycache__/dijkstra.cpython-34.pyc
+*.pyc
